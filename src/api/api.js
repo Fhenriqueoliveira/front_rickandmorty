@@ -1,5 +1,5 @@
 export const Api = {
-	baseUrl: "https://cors-anywhere.herokuapp.com/http://localhost:3000/personagens",
+	baseUrl: "https://rickandmortybackend.herokuapp.com/personagens",
 
 	createUrl: () => Api.baseUrl + "/",
 
